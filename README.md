@@ -3,7 +3,7 @@
 <!--
 **sehosseini/sehosseini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Experienced iOS Developer with a demonstrated history of working in the computer software industry. Skilled in OS X, iOS, iOS Development, User Interface Design, and Software Development. Strong engineering professional with a Bachelor's Degree focused in Software Computer from Apadana Shiraz University.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
