@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ibrahim, an iOS developer with over 6 years of experience using Swift. I'm also experienced with UIKit and SwiftUI. Furthermore, I specialize in writing efficient and reliable code, and I always follow clean code and architecture guidelines. With my excellent communication skills, attention to detail, and ability to meet tight deadlines, I've successfully completed projects using various frameworks and UI/UX tools. I have experience working in scrum/agile-based projects, and I'm always open to learning new things. I'm looking for a dynamic and innovative work environment where I can contribute my skills and continue to grow.
+I'm Ibrahim, an iOS developer with over 6 years of experience using Swift. I'm also experienced with UIKit and SwiftUI. Furthermore, I specialize in writing efficient and reliable code, and I always follow clean code and architecture guidelines. With my excellent communication skills, attention to detail, and ability to meet tight deadlines, I've completed projects using various frameworks and UI/UX tools. I have experience working in scrum/agile-based projects, and I'm always open to learning new things. I'm looking for a dynamic and innovative work environment where I can contribute my skills and continue to grow.
 
 
 <!--
