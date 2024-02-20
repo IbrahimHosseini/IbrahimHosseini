@@ -1,5 +1,5 @@
 ### Summary 
----
+-------
 I have experience as an iOS developer with 7+ years’ background in iOS design and development across diverse industries. Experience in different software design and architecture like MVC, and MVVM. Write testable and maintainable code in Swift, and also familiar with Objective‐C. Excellent communication, and organizational skills with attention to detail. Fast learner, highly motivated, and keen to use new technologies.
 
 ### Skills
@@ -27,7 +27,7 @@ I have experience as an iOS developer with 7+ years’ background in iOS design 
 
 ### Interested
 ---
-- 🌱 I’m currently learning TCA(The Composable Architecture).
+- 🌱 I’m currently learning ``TCA(The Composable Architecture)``.
 
 <!--
 
