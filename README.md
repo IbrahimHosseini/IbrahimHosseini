@@ -24,7 +24,7 @@ I have experience as an iOS developer with 7+ years’ background in iOS design 
 
 ## Interested 🧐
 - 🔭 I’m currently working on [TCA (The Composable Architecture)](https://github.com/pointfreeco/swift-composable-architecture).
-- 🤔 I’m looking for help with applying for a new career in Germany 🇩🇪 and the Netherlands 🇳🇱.
+- 🤔 I’m looking for a new career in Germany 🇩🇪 and the Netherlands 🇳🇱.
 
 ## How to reach me 
 - 📪 sehosseini@me.com
