@@ -8,10 +8,10 @@ I have experience as an iOS developer with `7+ years’` background in iOS desig
 - **Language:** Persian, English
 
 ## Work Experiences 🔬
-- Initiated, planned, and worked on the project with RxSwift and `MVVM` architecture.
+- Initiated, planned, and worked on the project with `RxSwift` and `MVVM` architecture.
 - Storing data using Realm database and Keychain.
 - Maintained an application using protocol‐oriented programming and clean Architecture principles.
-- Designed a navigation solution using the Coordinator architecture to reduce the code in the view controller and has a reusable way to navigate between views.
+- Designed a navigation solution using the `Coordinator architecture` to reduce the code in the view controller and has a reusable way to navigate between views.
 - Restructured the table view to show 300+ images fetched from the gallery.
 - Solved the memory leaks in the app, which caused the app to work smoothly.
 - Reduce the image sizing by regeneration images using ImageIO; it causes the users to have faster uploading and downloading. In addition, customers are satisfied due to using less storage in the cloud.
