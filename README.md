@@ -16,14 +16,15 @@ I have experience as an iOS developer with `7+ years’` background in iOS desig
 - Solved the memory leaks in the app, which caused the app to work smoothly.
 - Reduce the image sizing by regeneration images using ImageIO; it causes the users to have faster uploading and downloading. In addition, customers are satisfied due to using less storage in the cloud.
 - Implemented `dependency injection` and `clean architecture`, resulting in a 30 percent reduction in code complexity and improved maintainability.
-- Worked on the implementation of complex UI features of applications based on the UI/UX document (Figma) programmatically.
-- Incorporated the hub offline feature in the app by listening for events within the using Reactive programming(RxSwift) and updating UI accordingly.
-- Collaborate with designers, front-end developers, and product managers.
-- Worked with development tools like Gitalab, Git, and Jira to develop the application in a globally distributed Agile development environment.
-- Designed push notifications in the app with APNS and Firebase to communicate with customers.
+- Worked on the implementation of complex UI features of applications based on the `UI/UX` document (Figma) programmatically.
+- Incorporated the hub offline feature in the app by listening for events using `Reactive programming`(RxSwift) and updating UI accordingly.
+- `Collaborate` with designers, front-end developers, and product managers.
+- Worked with development tools like `Gitalab`, Git, and `Jira` to develop the application in a globally distributed `Agile` development environment.
+- Designed `push notifications` in the app with `APNS` and `Firebase` to communicate with customers.
 
 ## Interested 🧐
 - 🔭 I’m currently working on `TCA` [(The Composable Architecture)](https://github.com/pointfreeco/swift-composable-architecture).
+- 👯 I’m looking to collaborate on open-source iOS projects.
 - 🤔 I’m looking for a new career in `Germany 🇩🇪` and the `Netherlands 🇳🇱`.
 
 ## How to reach me 
@@ -31,9 +32,6 @@ I have experience as an iOS developer with `7+ years’` background in iOS desig
 - X @sehosseini
 
 <!--
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 -->
