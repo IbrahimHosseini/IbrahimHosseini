@@ -13,7 +13,7 @@ I have experience as an iOS developer with `7+ years’` background in iOS desig
 - Maintained an application using protocol‐oriented programming and clean Architecture principles.
 - Designed a navigation solution using the `Coordinator architecture` to reduce the code in the view controller and has a reusable way to navigate between views.
 - Restructured the table view to show 300+ images fetched from the gallery.
-- Solved the memory leaks in the app, which caused the app to work smoothly.
+- Solved the `memory leaks` in the app, which caused the app to work smoothly.
 - Reduce the image sizing by regeneration images using ImageIO; it causes the users to have faster uploading and downloading. In addition, customers are satisfied due to using less storage in the cloud.
 - Implemented `dependency injection` and `clean architecture`, resulting in a 30 percent reduction in code complexity and improved maintainability.
 - Worked on the implementation of complex UI features of applications based on the `UI/UX` document (Figma) programmatically.
