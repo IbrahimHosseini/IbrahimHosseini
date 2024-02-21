@@ -27,10 +27,6 @@ I have experience as an iOS developer with `7+ years’` background in iOS desig
 - 👯 I’m looking to collaborate on open-source iOS projects.
 - 🤔 I’m looking for a new career in `Germany 🇩🇪` and the `Netherlands 🇳🇱`.
 
-## How to reach me 
-- 📪 sehosseini@me.com
-- X @sehosseini
-
 <!--
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
