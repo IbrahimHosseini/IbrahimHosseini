@@ -1,5 +1,5 @@
 ## Summary 😎
-I have experience as an iOS developer with `7+ years’` background in iOS design and development across diverse industries. Experience in different software design and architecture like `MVC`, and `MVVM`. Write testable and maintainable code in Swift, and also familiar with `Objective‐C`. Excellent communication, and organizational skills with attention to detail. Fast learner, highly motivated, and keen to use new technologies.
+I have experience as an iOS developer with 7+ years of background in iOS design and development across diverse industries. Experience in software design and architecture like `MVC`, and `MVVM`. Write testable and maintainable code in Swift, and also familiar with `Objective‐C`. `Excellent communication`, and organizational skills with attention to detail. Fast learner, highly motivated, and keen to use new technologies.
 
 ## Skills ⛷️
 - **Advanced Knowledge:** `Swift`, Git, UIKit, `SOLID`, `Clean Code`, RESTful APIs, Auto Layout
@@ -16,7 +16,7 @@ I have experience as an iOS developer with `7+ years’` background in iOS desig
 - Solved the `memory leaks` in the app, which caused the app to work smoothly.
 - Reduce the image sizing by regeneration images using `ImageIO`; it causes the users to have faster uploading and downloading. In addition, customers are satisfied due to using less storage in the cloud.
 - Implemented `dependency injection` and `clean architecture`, resulting in a 30 percent reduction in code complexity and improved maintainability.
-- Worked on the implementation of complex UI features of applications based on the `UI/UX` document (Figma) programmatically.
+- Worked on implementing complex UI features of applications based on the `UI/UX` document (Figma) programmatically.
 - Incorporated the hub offline feature in the app by listening for events using `Reactive programming`(RxSwift) and updating UI accordingly.
 - `Collaborate` with designers, front-end developers, and product managers.
 - Worked with development tools like `Gitalab`, Git, and `Jira` to develop the application in a globally distributed `Agile` development environment.
