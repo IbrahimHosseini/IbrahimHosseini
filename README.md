@@ -29,6 +29,7 @@ I have experience as an iOS developer with 7+ years of background in iOS design 
 - **Wheelup** ([AppStore](https://apps.apple.com/de/app/wheelup-updated/id1582803353)) `Only available in Germany Store`
 - **Qamda** ([AppStore](https://apps.apple.com/de/app/qamda/id1534250181))
 - **DF App** ([site](http://distractfree.com))
+- **viomo** ([AppStore](https://apps.apple.com/us/app/viomo/id1549505106))
 
 ## Interested 🧐
 - 🔭 I’m currently working on `TCA` [(The Composable Architecture)](https://github.com/pointfreeco/swift-composable-architecture).
