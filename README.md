@@ -28,6 +28,7 @@ I have experience as an iOS developer with 7+ years of background in iOS design 
 - **Dotin** ([AppStore](https://apps.apple.com/gb/app/dotin/id1621066840))
 - **Wheelup** ([AppStore](https://apps.apple.com/de/app/wheelup-updated/id1582803353)) `Only available in Germany Store`
 - **Qamda** ([AppStore](https://apps.apple.com/de/app/qamda/id1534250181))
+- **DF App** ([site](http://distractfree.com))
 
 ## Interested 🧐
 - 🔭 I’m currently working on `TCA` [(The Composable Architecture)](https://github.com/pointfreeco/swift-composable-architecture).
