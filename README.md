@@ -26,7 +26,7 @@ I have experience as an iOS developer with 7+ years of background in iOS design 
 
 - **2local Wallet** ([Github](https://github.com/2local/iOSWallet))
 - **Dotin** ([AppStore](https://apps.apple.com/gb/app/dotin/id1621066840))
-- **Wheelup** ([AppStore](https://apps.apple.com/de/app/wheelup-updated/id1582803353), Only available in Germany Store.)
+- **Wheelup** ([AppStore](https://apps.apple.com/de/app/wheelup-updated/id1582803353)) `Only available in Germany Store`
 
 ## Interested 🧐
 - 🔭 I’m currently working on `TCA` [(The Composable Architecture)](https://github.com/pointfreeco/swift-composable-architecture).
