@@ -22,6 +22,11 @@ I have experience as an iOS developer with 7+ years of background in iOS design 
 - Worked with development tools like `Gitalab`, Git, and `Jira` to develop the application in a globally distributed `Agile` development environment.
 - Designed `push notifications` in the app with `APNS` and `Firebase` to communicate with customers.
 
+## Projects 📱
+
+- **2local Wallet**([Github](https://github.com/2local/iOSWallet))
+- **Dotin**([AppStore](https://apps.apple.com/gb/app/dotin/id1621066840))
+
 ## Interested 🧐
 - 🔭 I’m currently working on `TCA` [(The Composable Architecture)](https://github.com/pointfreeco/swift-composable-architecture).
 - 👯 I’m looking to collaborate on open-source iOS projects.
