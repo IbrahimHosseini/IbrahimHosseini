@@ -5,7 +5,7 @@ I have experience as an iOS developer with 7+ years of background in iOS design 
 - **Advanced Knowledge:** `Swift`, Git, UIKit, `SOLID`, `Clean Code`, RESTful APIs, Auto Layout
 - **Intermediate:** `SwiftUI`, `Combine`, `RxSwift`, `Unit Test`, `Integration Test`, Fastlane, GitLab CI, `Realm`
 - **Basic:** `The Composable Architecture`, Objective‐C, React Native, UI/UX (Figma, Adobe XD)
-- **Language:** Persian, English
+- **Language:** `Persian`, `English`
 
 ## Work Experiences 🔬
 - Initiated, planned, and worked on the project with `RxSwift` and `MVVM` architecture.
