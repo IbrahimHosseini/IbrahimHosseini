@@ -24,8 +24,25 @@ I have experience as an iOS developer with 7+ years of background in iOS design 
 
 ## Projects 📱
 
-- **2local Wallet** ([Github](https://github.com/2local/iOSWallet))
-- **Dotin** ([AppStore](https://apps.apple.com/gb/app/dotin/id1621066840))
+- **2local Wallet** ([Github](https://github.com/2local/iOSWallet)):
+- **Dotin** ([AppStore](https://apps.apple.com/gb/app/dotin/id1621066840)):
+
+  #### A platform built for a new way to do property inspections
+  Accurate Reports, Simplified Process: Dotin's 360 Images + Annotated Dots = Precise Property Inspections. Visualize the Power of Annotated Dots on Images!
+Dotin is a property inspection app designed for a new way to generate property inspections. With a focus on accuracy, efficiency, and simplicity, Dotin simplifies the entire inspection process, empowering property managers, landlords, inspectors, universities and councils to take control of their property inspection reports.
+Say goodbye to complex spreadsheet template setup formats. Dotin's user-friendly interface ensures an easy setup process, allowing you to get started in no time.
+Dotin's simple design and brilliant features, such as 360 images and annotated dots, allow you to effortlessly capture and document property details, highlighting areas of concern.
+    ##### Key Features:
+    1. Capture the entire room with 360 images and 2D images, every corner covered: Ensure comprehensive coverage of your inspections by capturing 360-degree photos and 2D images, leaving no corner unexamined.
+    2. Add annotated Dots to areas of concern or describe an item: Highlight areas of concern and provide detailed descriptions by adding annotated Dots directly onto the app.
+    3. Add multiple Tag Icons to the Dots for more clarity: Enhance clarity by attaching multiple icon tags to each Dot, making it easier to identify issues.
+    4. General overview slider for conditions and cleanliness: Get a comprehensive snapshot of the conditions and cleanliness of each area with a user-friendly overview slider.
+    5. Overview Feature: Track inspected areas and dot/image counts. Assess overall condition and cleanliness. Click on the room to edit room details effortlessly.
+    6. Sync and download up to 4 reports simultaneously: Save time and effort by seamlessly uploading and downloading up to four reports simultaneously.
+    7. Image quality in your hands sets it to what best suits you: Take control of image quality and adjust it to your preference, ensuring that the visuals accurately represent your inspections.
+    8. Add and rearrange areas to your liking: Customise your inspection process by creating and arranging rooms according to your specific requirements.
+Our app enhances property inspections by combining cutting-edge features and a user-friendly interface. Accurate reports and a simplified process are at the core of what we offer. By integrating 360-degree images, annotated dots, and multiple icon tags, our app allows you to consistently create accurate, easy-to-read, easy-to-understand property inspection reports with a simple touch. Experience the future of property inspections with our app and take your inspection reports to the next level of efficiency and accuracy.
+
 - **Wheelup** ([AppStore](https://apps.apple.com/de/app/wheelup-updated/id1582803353)) `Only available in Germany Store`
 - **Qamda** ([AppStore](https://apps.apple.com/de/app/qamda/id1534250181))
 - **DF App** ([site](http://distractfree.com))
