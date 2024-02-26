@@ -44,7 +44,14 @@ Dotin's simple design and brilliant features, such as 360 images and annotated d
 Our app enhances property inspections by combining cutting-edge features and a user-friendly interface. Accurate reports and a simplified process are at the core of what we offer. By integrating 360-degree images, annotated dots, and multiple icon tags, our app allows you to consistently create accurate, easy-to-read, easy-to-understand property inspection reports with a simple touch. Experience the future of property inspections with our app and take your inspection reports to the next level of efficiency and accuracy.
 
 - **Wheelup** ([AppStore](https://apps.apple.com/de/app/wheelup-updated/id1582803353)) `Only available in Germany Store`
-- **Qamda** ([AppStore](https://apps.apple.com/de/app/qamda/id1534250181))
+- **Qamda** ([AppStore](https://apps.apple.com/de/app/qamda/id1534250181)):
+
+  Qamda is an easy-to-use job search app. It matches job providers with job seekers within a geographical area. Job seekers can just swipe left to skip or right to apply for a job. Job providers and employers can add jobs in minutes at no cost.
+Looking for a job?
+Looking for a part-time job? A quick project on the side? Or maybe your next career move? Qamda has you covered. Search for hundreds of jobs within your geographical area. Just swipe left to skip, or swipe right to apply. Send a video or a short message along with your profile when you apply. New jobs are added every minute. Apply for as many jobs as you like. Employers will message you inside the app if they are interested. It's easy, it's quick and it's free.
+Looking for help?
+Are you looking for part-time help for your business? Or a full-time employee? Maybe you just want someone to help you clean that garage? Qamda has you covered. Create a job listing within minutes and have hundreds of local job seekers view your requirements. Get instant notifications when candidates apply. Candidates can send you their qualifications and even a short video introducing themselves. Select only the ones that are qualified and contact them via the chat feature of the app. It's quick, it's easy and it's free.
+
 - **DF App** ([site](http://distractfree.com))
 - **viomo** ([AppStore](https://apps.apple.com/us/app/viomo/id1549505106))
 
