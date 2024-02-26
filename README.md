@@ -60,7 +60,7 @@ Are you looking for part-time help for your business? Or a full-time employee? M
 - 👯 I’m looking to collaborate on open-source iOS projects.
 - 🤔 I’m looking for a new career in `Germany 🇩🇪` and the `Netherlands 🇳🇱`.
 
-## Resume
+## Resume 📝
 You can download my CV [here](https://github.com/IbrahimHosseini/IbrahimHosseini/files/14404758/Ibrahim_Hosseini_iOS_Developer.pdf).
 
 <!--
