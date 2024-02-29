@@ -4,7 +4,7 @@ I have experience as an iOS developer with 7+ years of background in iOS design 
 ## Skills ⛷️
 - `Swift`, Git, UIKit, `SOLID`, `Clean Code`, RESTful APIs, Auto Layout
 `SwiftUI`, `Combine`, `RxSwift`, `Unit Test`, `Integration Test`, Fastlane, GitLab CI, `Realm`, `The Composable Architecture`, Objective‐C, React Native, UI/UX (Figma, Adobe XD)
-- Strong communication, Empathy
+- Strong communication, Work Ethic, Teamwork, Problem-solving, Empathy.
 
 ## Work Experiences 🔬
 - Initiated, planned, and worked on the project with `RxSwift` and `MVVM` architecture.
