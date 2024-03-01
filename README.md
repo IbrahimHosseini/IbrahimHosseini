@@ -38,19 +38,27 @@ Are you looking for a part-time job? A quick project on the side? Or maybe your 
 Are you looking for help?
 Are you looking for part-time help for your business? Or a full-time employee? Maybe you just want someone to help you clean that garage? Qamda has you covered. Create a job listing within minutes and have hundreds of local job seekers view your requirements. Get instant notifications when candidates apply. Candidates can send you their qualifications and even a short video introducing themselves. Select only the ones that are qualified and contact them via the chat feature of the app. It's quick, it's easy and it's free.
 
-- **viomo** ([AppStore](https://apps.apple.com/us/app/viomo/id1549505106)):
-
-  Viomo is an app with which the user can report suggestions or wishes to the respective authorities.
-  
-- **Wheelup** ([AppStore](https://apps.apple.com/de/app/wheelup-updated/id1582803353)) `Only available in Germany Store`
 - **2local Wallet** ([Github](https://github.com/2local/iOSWallet))
-- **DF App** ([site](http://distractfree.com))
+- **DF App** ([site](http://distractfree.com)):
 
   Safe-driving solutions for Commercial vehicles and their drivers.
 
+  **Technology’s Role in Reducing Distractions:**
+
+  - In-Vehicle Infotainment: Pivotal in the modern driving ecosystem.
+  - Ubiquity: As of 2023, CarPlay and Android Auto are integrated into 90% of vehicles.
+
+  **Benefits:**
+
+  - Provides a simplified, voice-controlled interface.
+  - Minimizes smartphone physical interactions.
+  - Decreases distractions, enhancing road safety.
+  - Offers seamless integration with top navigation apps (Google Maps, Waze).
+  - Facilitates real-time directions, traffic updates, and voice-guided instructions.
+
 ## Interested 🧐
 - 🔭 I’m currently working on `TCA` [(The Composable Architecture)](https://github.com/pointfreeco/swift-composable-architecture), `Data Structure and Algorithms`, and `System Design`.
-- 👯 I’m looking to collaborate on open-source iOS projects.
+- 👯 I’m looking to collaborate on `open-source` iOS projects.
 - 🤔 I’m looking for a new career in `Germany 🇩🇪` and the `Netherlands 🇳🇱`.
 
 ## Resume 📝
