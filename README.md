@@ -28,21 +28,8 @@ I have experience as an iOS developer with 7+ years of background in iOS design 
 - **Qamda** ([AppStore](https://apps.apple.com/de/app/qamda/id1534250181)): *Qamda is an easy-to-use job search app. It matches job providers with job seekers within a geographical area. Job seekers can just swipe left to skip or right to apply for a job. Job providers and employers can add jobs in minutes at no cost. Looking for a job? Are you looking for a part-time job? A quick project on the side? Or maybe your next career move? Qamda has you covered. Search for hundreds of jobs within your geographical area. Just swipe left to skip, or swipe right to apply. Send a video or a short message along with your profile when you apply. New jobs are added every minute. Apply for as many jobs as you like. Employers will message you inside the app if they are interested. It's easy, it's quick and it's free. Are you looking for help?
 Are you looking for part-time help for your business? Or a full-time employee? Maybe you just want someone to help you clean that garage? Qamda has you covered. Create a job listing within minutes and have hundreds of local job seekers view your requirements. Get instant notifications when candidates apply. Candidates can send you their qualifications and even a short video introducing themselves. Select only the ones that are qualified and contact them via the chat feature of the app. It's quick, it's easy and it's free.*
 
-- **2local Wallet** ([Github](https://github.com/2local/iOSWallet))
+- **2local Wallet** ([Github](https://github.com/2local/iOSWallet)): *A Cryptocurrency wallet app that you can create or import a new wallet, Do transactions on Ethereum and BNB channels and also show you balance.*
 - **DF App** ([site](http://distractfree.com)): *Safe-driving solutions for Commercial vehicles and their drivers.*
-
-  **Technology’s Role in Reducing Distractions:**
-
-  - In-Vehicle Infotainment: Pivotal in the modern driving ecosystem.
-  - Ubiquity: As of 2023, CarPlay and Android Auto are integrated into 90% of vehicles.
-
-  **Benefits:**
-
-  - Provides a simplified, voice-controlled interface.
-  - Minimizes smartphone physical interactions.
-  - Decreases distractions, enhancing road safety.
-  - Offers seamless integration with top navigation apps (Google Maps, Waze).
-  - Facilitates real-time directions, traffic updates, and voice-guided instructions.
 
 ## Interested 🧐
 - 🔭 I’m currently working on `TCA` [(The Composable Architecture)](https://github.com/pointfreeco/swift-composable-architecture), `Data Structure and Algorithms`, and `System Design`.
