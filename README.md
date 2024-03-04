@@ -36,7 +36,8 @@ I am an experienced iOS developer with 7+ years of background in design and deve
 - 🤔 I’m looking for a new career in `Germany 🇩🇪` and the `Netherlands 🇳🇱`.
 
 ## Resume 📝
-You can download my CV [here](https://github.com/IbrahimHosseini/IbrahimHosseini/files/14404758/Ibrahim_Hosseini_iOS_Developer.pdf).
+You can download my CV [`here`](https://github.com/IbrahimHosseini/IbrahimHosseini/files/14486219/Ibrahim_Hosseini.pdf
+).
 
 <!--
 - 💬 Ask me about ...
