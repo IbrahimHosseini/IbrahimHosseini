@@ -23,15 +23,15 @@ I am an experienced iOS developer with 7+ years of background in design and deve
 
 ## Projects 📱
 
-- **Dotin** ([AppStore](https://apps.apple.com/gb/app/dotin/id1621066840)): *A platform built for a new way to do property inspections. Accurate Reports, Simplified Process: Dotin's 360 Images + Annotated Dots = Precise Property Inspections. Visualize the Power of Annotated Dots on Images! Dotin is a property inspection app designed for a new way to generate property inspections. With a focus on accuracy, efficiency, and simplicity, Dotin simplifies the entire inspection process, empowering property managers, landlords, inspectors, universities, and councils to take control of their property inspection reports.*
+- **Dotin** [`AppStore`](https://apps.apple.com/gb/app/dotin/id1621066840): *A platform built for a new way to do property inspections. Accurate Reports, Simplified Process: Dotin's 360 Images + Annotated Dots = Precise Property Inspections. Visualize the Power of Annotated Dots on Images! Dotin is a property inspection app designed for a new way to generate property inspections. With a focus on accuracy, efficiency, and simplicity, Dotin simplifies the entire inspection process, empowering property managers, landlords, inspectors, universities, and councils to take control of their property inspection reports.*
 
-- **Qamda** ([AppStore](https://apps.apple.com/de/app/qamda/id1534250181)): *Qamda is an easy-to-use job search app. It matches job providers with job seekers within a geographical area. Job seekers can just swipe left to skip or right to apply for a job. Job providers and employers can add jobs in minutes at no cost.*
+- **Qamda** [`AppStore`](https://apps.apple.com/de/app/qamda/id1534250181): *Qamda is an easy-to-use job search app. It matches job providers with job seekers within a geographical area. Job seekers can just swipe left to skip or right to apply for a job. Job providers and employers can add jobs in minutes at no cost.*
 
-- **2local Wallet** ([Github](https://github.com/2local/iOSWallet)): *A Cryptocurrency wallet app that you can create or import a new wallet, Do transactions on Ethereum and BNB channels and also show you balance.*
-- **DF App** ([site](http://distractfree.com)): *Safe-driving solutions for Commercial vehicles and their drivers.*
+- **2local Wallet** [`Github`](https://github.com/2local/iOSWallet): *A Cryptocurrency wallet app that you can create or import a new wallet, Do transactions on Ethereum and BNB channels, and also show your balance.*
+- **DF App** [`site`](http://distractfree.com): *Safe-driving solutions for Commercial vehicles and their drivers.*
 
 ## Interested 🧐
-- 🔭 I’m currently working on `TCA` [(The Composable Architecture)](https://github.com/pointfreeco/swift-composable-architecture), `Data Structure and Algorithms`, and `System Design`.
+- 🔭 I’m currently working on [`TCA`](https://github.com/pointfreeco/swift-composable-architecture), `Data Structure and Algorithms`, and `System Design`.
 - 👯 I’m looking to collaborate on `open-source` iOS projects.
 - 🤔 I’m looking for a new career in `Germany 🇩🇪` and the `Netherlands 🇳🇱`.
 
