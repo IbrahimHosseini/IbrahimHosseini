@@ -38,8 +38,3 @@ I am an experienced iOS developer with 7+ years of background in design and deve
 ## Resume 📝
 You can download my CV [`here`](https://github.com/IbrahimHosseini/IbrahimHosseini/files/14486219/Ibrahim_Hosseini.pdf
 ).
-
-<!--
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
--->
