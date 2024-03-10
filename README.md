@@ -1,10 +1,10 @@
 ## Summary 😎
-I am an experienced iOS developer with 7+ years of background in design and development across diverse industries. I have experience in solving issues with production environments and excel at developing applications using MVC and MVVM frameworks. Proficient in Swift and familiar with object-oriented programming concepts, I am a fast learner, highly motivated, and able to work independently and as part of a large team.
+I am an experienced iOS developer with 7+ years of background in design and development across diverse industries. I have experience in solving issues with production environments and excel at developing applications using `MVC` and `MVVM` frameworks. Proficient in Swift and familiar with object-oriented programming concepts, I am a fast learner, highly motivated, and able to work independently and as part of a large team.
 
 ## Skills ⛷️
 - `Swift`, Git, UIKit, `SOLID`, `Clean Code`, RESTful APIs, Auto Layout
 `SwiftUI`, `Combine`, `RxSwift`, `Unit Test`, `Integration Test`, Fastlane, GitLab CI, `Realm`, `The Composable Architecture`, Objective‐C, React Native, UI/UX (Figma, Adobe XD), `vapor`, `SwiftPM`.
-- Strong communication, Work Ethic, Teamwork, Problem-solving, and Empathy.
+- Strong `communication`, Work Ethic, `Teamwork`, `Problem-solving`, and Empathy.
 
 ## Work Experiences 🔬
 - Initiated, planned, and worked on the project with `RxSwift` and `MVVM` architecture.
