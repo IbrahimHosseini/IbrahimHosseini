@@ -31,10 +31,10 @@ I am an experienced iOS developer with 7+ years of background in design and deve
 - **DF App** [`site`](http://distractfree.com): *Safe-driving solutions for Commercial vehicles and their drivers.*
 
 ## Interested 🧐
-- 🔭 I’m currently working on [`TCA`](https://github.com/pointfreeco/swift-composable-architecture), `Data Structure and Algorithms`, `System Design`, and [`vapor`](https://www.vapor.codes).
+- 🔭 I’m currently working on [`TCA`](https://github.com/pointfreeco/swift-composable-architecture), `Data Structure and Algorithms`, and `System Design`.
 - 👯 I’m looking to collaborate on `open-source` iOS projects.
 - 🤔 I’m looking for a new career in `Germany 🇩🇪` and the `Netherlands 🇳🇱`.
+- 📖 I’m learning `Rust`.
 
 ## Resume 📝
-You can download my CV [`here`](https://github.com/IbrahimHosseini/IbrahimHosseini/files/14486219/Ibrahim_Hosseini.pdf
-).
+You can download my CV [`here`](https://github.com/IbrahimHosseini/IbrahimHosseini/files/14486219/Ibrahim_Hosseini.pdf).
