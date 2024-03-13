@@ -3,7 +3,7 @@ I am an experienced iOS developer with 7+ years of background in design and deve
 
 ## Skills ⛷️
 - `Swift`, Git, UIKit, `SOLID`, `Clean Code`, RESTful APIs, Auto Layout
-`SwiftUI`, `Combine`, `RxSwift`, `Unit Test`, `Integration Test`, Fastlane, GitLab CI, `Realm`, `The Composable Architecture`, Objective‐C, React Native, UI/UX (Figma, Adobe XD), `vapor`, `SwiftPM`.
+`SwiftUI`, `Combine`, `RxSwift`, `Unit Test`, `Integration Test`, Fastlane, GitLab CI, `Realm`, `The Composable Architecture`, Objective‐C, React Native, UI/UX (Figma, Adobe XD), `SwiftPM`.
 - Strong `communication`, Work Ethic, `Teamwork`, `Problem-solving`, and Empathy.
 
 ## Work Experiences 🔬
