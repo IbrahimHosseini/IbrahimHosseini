@@ -7,23 +7,23 @@ I am an experienced iOS developer with 7+ years of background in design and deve
 - Strong `communication`, Work Ethic, `Teamwork`, `Problem-solving`, and Empathy.
 
 ## Work Experiences 🔬
-- Maintained a large-scale application using protocol-oriented programming and clean Architecture principles.
-- Designed a navigation solution utilizing the Coordinator architecture to reduce code within the view controller, achieving a more reusable approach to navigation between views.
-- Spearheaded and developed the project utilizing RxSwift and MVVM architecture.
-- Managing data using Realm database and Keychain.
-- Restructured the table view to efficiently display 300+ images fetched from the gallery, resulting in a significant improvement in loading times and user experience.
-- Identified and addressed memory leaks, leading to a 20% improvement in app responsiveness.
-- Optimized image size through regeneration using ImageIO, resulting in faster user upload and download speeds, and reduced cloud storage costs for improved customer satisfaction.
-- Enhanced code maintainability and achieved a 30% reduction in complexity by implementing dependency injection and clean architecture principles.
-- Translated complex UI features from Figma design into functional and user-friendly app experiences through programmatic implementation.
+- Maintained a large-scale application using **protocol-oriented programming** and **clean Architecture principles**.
+- Designed a navigation solution utilizing the **Coordinator architecture** to reduce code within the view controller, achieving a more reusable approach to navigation between views.
+- Spearheaded and developed the project utilizing **RxSwift** and **MVVM** architecture.
+- Managing data using **Realm** database and **Keychain**.
+- Restructured the table view to efficiently display 300+ images fetched from the gallery, resulting in a **significant improvement in loading times** and user experience.
+- Identified and addressed **memory leaks**, leading to a 20% improvement in app responsiveness.
+- Optimized image size through regeneration using **ImageIO**, resulting in faster user upload and download speeds, and **reduced cloud storage** costs for improved customer satisfaction.
+- Enhanced code maintainability and achieved a 30% reduction in complexity by implementing **dependency injection** and clean architecture principles.
+- Translated complex UI features from **Figma** design into functional and user-friendly app experiences through programmatic implementation.
 - Implemented the hub offline feature in the app by utilizing RxSwift to listen for relevant events and update the UI accordingly.
 - Contributed to successful project outcomes by collaborating closely with designers, front-end developers, and Product Managers throughout the development process.
-- Leveraged development tools like GitLab, Git, and Jira to successfully manage the application's development in a globally distributed Agile environment.
-- Implemented Web3 architecture to enable secure import and creation of crypto wallets within the application.
-- Developed and deployed a real-time chat program using Socket.io, resulting in increased user engagement by 20%, fostering a more interactive and collaborative online community.
-- Implemented clustering on Google Maps to display upcoming concerts and artists, resulting in a 10% increase in user interactions with the app.
-- Implemented push notifications by creating and integrating an APNS certificate with Firebase. Streamlined user experience by displaying all notices within a dedicated Notifications Tab. Ensured seamless server integration for efficient push notification handling.
-- Leveraged mobile analytics platforms like Firebase and Mixpanel to delve into user behavior within our social media app. This facilitated the personalization of in-app experiences and the optimization of user journeys, leading to a remarkable 40% increase in user retention.
+- Leveraged development tools like **GitLab**, **Git**, and **Jira** to successfully manage the application's development in a globally distributed **Agile** environment.
+- Implemented **Web3** architecture to enable secure import and creation of **crypto** wallets within the application.
+- Developed and deployed a **real-time chat** program using **Socket.io**, resulting in increased user engagement by 20%, fostering a more interactive and collaborative online community.
+- Implemented clustering on **Google Maps** to display upcoming concerts and artists, resulting in a 10% increase in user interactions with the app.
+- Implemented **push notifications** by creating and integrating an **APNS** certificate with **Firebase**. Streamlined user experience by displaying all notices within a dedicated Notifications Tab. Ensured seamless server integration for efficient push notification handling.
+- Leveraged mobile **analytics platforms** like **Firebase** and **Mixpanel** to delve into user behavior within our social media app. This facilitated the personalization of in-app experiences and the optimization of user journeys, leading to a remarkable 40% increase in user retention.
 
 ## Projects 📱
 
