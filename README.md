@@ -15,7 +15,7 @@ I am an experienced **iOS developer** with **7+ years** of background in design 
 - Optimized image size through regeneration using **ImageIO**, resulting in faster user upload and download speeds, and **reduced cloud storage** costs for improved customer satisfaction.
 - Enhanced code maintainability and achieved a 30% reduction in complexity by implementing **dependency injection** and clean architecture principles.
 - Translated complex UI features from **Figma** design into functional and user-friendly app experiences through programmatic implementation.
-- Implemented the hub offline feature in the app by utilizing RxSwift to listen for relevant events and update the UI accordingly.
+- Implemented the hub offline feature in the app by utilizing **RxSwift** to listen for relevant events and update the UI accordingly.
 - Contributed to successful project outcomes by collaborating closely with designers, front-end developers, and Product Managers throughout the development process.
 - Leveraged development tools like **GitLab**, **Git**, and **Jira** to successfully manage the application's development in a globally distributed **Agile** environment.
 - Implemented **Web3** architecture to enable secure import and creation of **crypto** wallets within the application.
