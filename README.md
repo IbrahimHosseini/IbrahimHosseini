@@ -2,10 +2,12 @@
 I am an experienced iOS developer with **7+ years** of background in design and development across diverse industries. I have experience in **solving issues** with production environments and excel at developing applications using **MVC** and **MVVM** frameworks. Proficient in **Swift** and familiar with **object-oriented programming** and **protocol-oriented programming**  concepts, I am a fast learner, highly motivated, and able to work independently and as part of a large team.
 
 ## Skills ⛷️
-- `Swift`, Git, UIKit, `SOLID`, `Clean Code`, `RESTful APIs`, Auto Layout, `SwiftUI`, `Combine`, `RxSwift`, `Unit Test`, `Integration Test`, Fastlane, GitLab CI, `Realm`, `The Composable Architecture`, Objective‐C, `React Native`, UI/UX (Figma, Adobe XD), `SwiftPM`, `DocC` Algorithm and Data structure, `Xcode Cloud CI/CD`.
-- Strong `communication`, Work Ethic, `Teamwork`, `Problem-solving`, and `Empathy`.
+#### Technologies
+`Swift`, Git, UIKit, `SOLID`, `Clean Code`, `RESTful APIs`, Auto Layout, `SwiftUI`, `Combine`, `RxSwift`, `Unit Test`, `Integration Test`, `Fastlane`, GitLab CI, `Xcode Cloud CI/CD`, `Realm`, `The Composable Architecture`, Objective‐C, `React Native`, UI/UX (Figma), `SwiftPM`, `DocC` Algorithm and Data structure.
+#### Soft Skills 
+Strong `communication`, Work Ethic, `Teamwork`, `Problem-solving`, and `Empathy`.
 
-## Work Experiences 🔬
+## Experiences 🔬
 - Maintained a large-scale application using **protocol-oriented programming** and **clean Architecture principles**.
 - Designed a navigation solution utilizing the **Coordinator architecture** to reduce code within the view controller, achieving a more reusable approach to navigation between views.
 - Spearheaded and developed the project utilizing **RxSwift** and **MVVM** architecture.
@@ -40,4 +42,4 @@ I am an experienced iOS developer with **7+ years** of background in design and 
 - 🤔 I’m looking for a new career in `Germany 🇩🇪` and the `Netherlands 🇳🇱`.
 
 ## Resume 📝
-You can download my CV [`here`](https://github.com/IbrahimHosseini/IbrahimHosseini/files/14486219/Ibrahim_Hosseini.pdf).
+You can download my resume [**here**](https://github.com/IbrahimHosseini/IbrahimHosseini/files/14813400/Ibrahim_Hosseini_iOS_Developer.pdf).
