@@ -20,7 +20,7 @@ Strong `communication`, Work Ethic, `Teamwork`, `Problem-solving`, and `Empathy`
 - Implemented the hub offline feature in the app by utilizing **RxSwift** to listen for relevant events and update the UI accordingly.
 - Contributed to successful project outcomes by collaborating closely with designers, front-end developers, and Product Managers throughout the development process.
 - Leveraged development tools like **GitLab**, **Git**, and **Jira** to successfully manage the application's development in a globally distributed **Agile** environment.
-- Implemented **Web3** architecture to enable secure import and creation of **crypto** wallets within the application.
+- Implemented **Web3** architecture to enable secure import and creation of **cryptocurrency** wallets within the application.
 - Developed and deployed a **real-time chat** program using **Socket.io**, resulting in increased user engagement by 20%, fostering a more interactive and collaborative online community.
 - Implemented clustering on **Google Maps** to display upcoming concerts and artists, resulting in a 10% increase in user interactions with the app.
 - Implemented **push notifications** by creating and integrating an **APNS** certificate with **Firebase**. Streamlined user experience by displaying all notices within a dedicated Notifications Tab. Ensured seamless server integration for efficient push notification handling.
