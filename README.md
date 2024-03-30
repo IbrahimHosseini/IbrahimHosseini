@@ -23,6 +23,7 @@ I am an experienced iOS developer with **7+ years** of background in design and 
 - Implemented clustering on **Google Maps** to display upcoming concerts and artists, resulting in a 10% increase in user interactions with the app.
 - Implemented **push notifications** by creating and integrating an **APNS** certificate with **Firebase**. Streamlined user experience by displaying all notices within a dedicated Notifications Tab. Ensured seamless server integration for efficient push notification handling.
 - Leveraged mobile **analytics platforms** like **Firebase** and **Mixpanel** to delve into user behavior within our social media app. This facilitated the personalization of in-app experiences and the optimization of user journeys, leading to a remarkable 40% increase in user retention.
+- Works with **iBeacon** to connect some Bluetooth devices to an iPhone. In addition, by using [Manhatan distance](https://xlinux.nist.gov/dads/HTML/manhattanDistance.html#:~:text=Definition%3A%20The%20distance%20between%20two,y1%20%2D%20y2%7C.) formula, calculate the location of a user on a vehicle and then manage the user device using **MDM** with [Hexnode](https://www.hexnode.com). 
 
 ## Projects 📱
 
