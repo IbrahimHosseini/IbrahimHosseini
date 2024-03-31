@@ -26,7 +26,7 @@ Strong `communication`, Work Ethic, `Teamwork`, `Problem-solving`, and `Empathy`
 - Implemented **push notifications** by creating and integrating an **APNS** certificate with **Firebase**. Streamlined user experience by displaying all notices within a dedicated Notifications Tab. Ensured seamless server integration for efficient push notification handling.
 - Leveraged mobile **analytics platforms** like **Firebase** and **Mixpanel** to delve into user behavior within our social media app. This facilitated the personalization of in-app experiences and the optimization of user journeys, leading to a remarkable 40% increase in user retention.
 - Works with **iBeacon** to connect some Bluetooth devices to an iPhone. In addition, by using [Manhatan distance](https://xlinux.nist.gov/dads/HTML/manhattanDistance.html#:~:text=Definition%3A%20The%20distance%20between%20two,y1%20%2D%20y2%7C.) formula, calculate the location of a user on a vehicle and then manage the user device using **MDM** with [Hexnode](https://www.hexnode.com).
-- Develop a **SwiftPM** to manage the System State (**RAM**, **CPU**, **GPU**, **Network**, **Disk**) and embedded to the project. It caused the reduction of more than 2000 lines of code, also **preventing code duplication** and making it simpler to **scalable** and **maintain**.
+- Develop a **SwiftPM** to manage the System State (**RAM**, **CPU**, **GPU**, **Network**, **Disk**) and embedded to the project. It caused the reduction of more than thousands of lines of code, also **preventing code duplication** and making it simpler to **scalable** and **maintain**.
 
 ## Projects 📱
 
