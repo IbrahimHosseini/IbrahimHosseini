@@ -1,3 +1,6 @@
+## GitHub Status 📈
+![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimhosseini&show_icons=true&theme=transparent)
+
 ## Summary 😎
 *I'm **Ibrahim**, an experienced iOS developer with **7+ years** of background in design and development across diverse industries. I have experience in **solving issues** with production environments and excel at developing applications using **MVC**, **MVVM**, and **VIPER** architecture patterns. Proficient in **Swift** and familiar with **object-oriented programming** and **protocol-oriented programming**  concepts, I am a fast learner, highly motivated, and able to work independently and as part of a large team.*
 
@@ -45,7 +48,3 @@ Strong `communication`, Work Ethic, `Teamwork`, `Problem-solving`, and `Empathy`
 
 ## Resume 📝
 You can download my resume [**here**](https://github.com/IbrahimHosseini/IbrahimHosseini/files/14813400/Ibrahim_Hosseini_iOS_Developer.pdf).
-
-## GitHub Status 📈
-
-![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimhosseini&show_icons=true&theme=transparent)
