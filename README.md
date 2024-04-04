@@ -1,5 +1,5 @@
 ## Summary 😎
-I'm **Ibrahim**, an experienced iOS developer with **7+ years** of background in design and development across diverse industries. I have experience in **solving issues** with production environments and excel at developing applications using **MVC**, **MVVM**, and **VIPER** architecture patterns. Proficient in **Swift** and familiar with **object-oriented programming** and **protocol-oriented programming**  concepts, I am a fast learner, highly motivated, and able to work independently and as part of a large team.
+*I'm **Ibrahim**, an experienced iOS developer with **7+ years** of background in design and development across diverse industries. I have experience in **solving issues** with production environments and excel at developing applications using **MVC**, **MVVM**, and **VIPER** architecture patterns. Proficient in **Swift** and familiar with **object-oriented programming** and **protocol-oriented programming**  concepts, I am a fast learner, highly motivated, and able to work independently and as part of a large team.*
 
 ## Skills ⛷️
 #### Technologies
@@ -38,7 +38,7 @@ Strong `communication`, Work Ethic, `Teamwork`, `Problem-solving`, and `Empathy`
 - **DF App** [`site`](http://distractfree.com): *Safe-driving solutions for Commercial vehicles and their drivers.*
 
 ## Interested 🧐
-- 🔭 I’m currently working on [`TCA`](https://github.com/pointfreeco/swift-composable-architecture), `Data Structure and Algorithms`, and `System Design`.
+- 🔭 I’m currently working on [`TCA`](https://github.com/pointfreeco/swift-composable-architecture), `Data Structure` and `Algorithms`, and `System Design`.
 - 👯 I’m looking to collaborate on `open-source` iOS projects.
 - 📖 I’m learning [`Golang`](https://go.dev/).
 - 🤔 I’m looking for a new career in `Germany 🇩🇪` and the `Netherlands 🇳🇱`.
