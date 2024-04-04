@@ -1,4 +1,9 @@
-![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimhosseini&show_icons=true&theme=transparent)
+<a href="https://github.com/ibrahimhosseini/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimhosseini" />
+</a>
+<a href="https://github.com/ibrahimhosseini/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahimhosseini&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ## Summary 😎
 *I'm **Ibrahim**, an experienced iOS developer with **7+ years** of background in design and development across diverse industries. I have experience in **solving issues** with production environments and excel at developing applications using **MVC**, **MVVM**, and **VIPER** architecture patterns. Proficient in **Swift** and familiar with **object-oriented programming** and **protocol-oriented programming**  concepts, I am a fast learner, highly motivated, and able to work independently and as part of a large team.*
