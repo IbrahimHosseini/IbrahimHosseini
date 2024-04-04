@@ -41,7 +41,7 @@ Strong `communication`, Work Ethic, `Teamwork`, `Problem-solving`, and `Empathy`
 - 🔭 I’m currently working on [`TCA`](https://github.com/pointfreeco/swift-composable-architecture), `Data Structure and Algorithms`, and `System Design`.
 - 👯 I’m looking to collaborate on `open-source` iOS projects.
 - 🤔 I’m looking for a new career in `Germany 🇩🇪` and the `Netherlands 🇳🇱`.
-- 📖 I’m learning **Golang**.
+- 📖 I’m learning `Golang`.
 
 ## Resume 📝
 You can download my resume [**here**](https://github.com/IbrahimHosseini/IbrahimHosseini/files/14813400/Ibrahim_Hosseini_iOS_Developer.pdf).
