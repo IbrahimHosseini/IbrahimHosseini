@@ -48,4 +48,4 @@ You can download my resume [**here**](https://github.com/IbrahimHosseini/Ibrahim
 
 ## GitHub Status 📈
 
-![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=IbrahimHosseini&show_icons=true)
+![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimhosseini&show_icons=true&theme=transparent)
