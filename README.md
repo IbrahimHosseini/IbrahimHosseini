@@ -2,7 +2,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimhosseini" />
 </a>
 <a href="https://github.com/ibrahimhosseini/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahimhosseini&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahimhosseini&layout=compact&langs_count=6&card_width=320" />
 </a>
 
 ## Summary 😎
