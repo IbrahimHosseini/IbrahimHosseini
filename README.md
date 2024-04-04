@@ -1,4 +1,3 @@
-## GitHub Status 📈
 ![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimhosseini&show_icons=true&theme=transparent)
 
 ## Summary 😎
