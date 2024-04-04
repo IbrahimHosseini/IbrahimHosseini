@@ -45,3 +45,7 @@ Strong `communication`, Work Ethic, `Teamwork`, `Problem-solving`, and `Empathy`
 
 ## Resume 📝
 You can download my resume [**here**](https://github.com/IbrahimHosseini/IbrahimHosseini/files/14813400/Ibrahim_Hosseini_iOS_Developer.pdf).
+
+## GitHub Status 📈
+
+![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=IbrahimHosseini&show_icons=true)
