@@ -36,7 +36,6 @@ Strong `communication`, Work Ethic, `Teamwork`, `Problem-solving`, and `Empathy`
 - Develop a **SwiftPM** to manage the System State (**RAM**, **CPU**, **GPU**, **Network**, **Disk**) and embedded to the project. It caused the reduction of more than thousands of lines of code, also **preventing code duplication** and making it simpler to **scalable** and **maintain**.
 
 ## Projects 📱
-
 - **Dotin** [`AppStore`](https://apps.apple.com/gb/app/dotin/id1621066840): *A platform built for a new way to do property inspections. Accurate Reports, Simplified Process: Dotin's 360 Images annotated Dots precise Property Inspections. Visualize the Power of Annotated Dots on Images! Dotin is a property inspection app designed for a new way to generate property inspections. With a focus on accuracy, efficiency, and simplicity, Dotin simplifies the entire inspection process, empowering property managers, landlords, inspectors, universities, and councils to take control of their property inspection reports.*
 
 - **Qamda** [`AppStore`](https://apps.apple.com/de/app/qamda/id1534250181): *Qamda is an easy-to-use job search app. It matches job providers with job seekers within a geographical area. Job seekers can just swipe left to skip or right to apply for a job. Job providers and employers can add jobs in minutes at no cost.*
