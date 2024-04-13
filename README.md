@@ -9,6 +9,8 @@
 *I'm **Ibrahim**, an experienced iOS developer with **7+ years** of background in design and development across diverse industries. I have experience in **solving issues** with production environments and excel at developing applications using **MVC**, **MVVM**, and **VIPER** architecture patterns. Proficient in **Swift** and familiar with **object-oriented programming** and **protocol-oriented programming**  concepts, I am a fast learner, highly motivated, and able to work independently and as part of a large team.*
 
 ## Skills ⛷️
+#### Languages
+**Swift**, **Go**
 #### Technologies
 `Swift`, Git, UIKit, `SOLID`, `Clean Code`, `RESTful APIs`, Auto Layout, `SwiftUI`, `Combine`, `RxSwift`, `Unit Test`, `Integration Test`, `Fastlane`, GitLab CI, `Xcode Cloud CI/CD`, `Realm`, `The Composable Architecture`, Objective‐C, `React Native`, UI/UX (Figma), `SwiftPM`, `DocC`, Algorithm and Data structure.
 #### Soft Skills 
