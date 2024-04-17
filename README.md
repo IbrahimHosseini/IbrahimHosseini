@@ -53,4 +53,6 @@ Strong `communication`, Work Ethic, `Teamwork`, `Problem-solving`, and `Empathy`
 - 🤔 I’m looking for a new career in `Germany 🇩🇪` and the `Netherlands 🇳🇱`.
 
 ## Resume 📝
-You can download my resume [**here**](https://github.com/IbrahimHosseini/IbrahimHosseini/files/14813400/Ibrahim_Hosseini_iOS_Developer.pdf).
+You can download my resume [**here**](https://github.com/IbrahimHosseini/IbrahimHosseini/files/15016260/Ibrahim_Hosseini.pdf).
+
+
