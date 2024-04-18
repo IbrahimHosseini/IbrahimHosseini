@@ -20,7 +20,7 @@ Strong `communication`, Work Ethic, `Teamwork`, `Problem-solving`, and `Empathy`
 ## Experiences 🔬
 - Maintained a large-scale application using **protocol-oriented programming** and **clean Architecture principles**.
 - Designed a navigation solution utilizing the **Coordinator architecture** to reduce code within the view controller, achieving a more reusable approach to navigation between views.
-- Spearheaded and developed the project utilizing **RxSwift** and **MVVM** architecture.
+- Spearheaded and developed the project utilizing **RxSwift** and **MVVM-C** architecture.
 - Managing data using **Realm** database and **Keychain**.
 - Restructured the table view to efficiently display 300+ images fetched from the gallery, resulting in a **significant improvement in loading times** and user experience.
 - Identified and addressed **memory leaks**, leading to a 20% improvement in app responsiveness.
