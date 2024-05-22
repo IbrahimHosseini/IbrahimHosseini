@@ -39,7 +39,7 @@ Strong `communication`, Work Ethic, `Teamwork`, `Problem-solving`, and `Empathy`
 
 ## Projects 📱
 - **System State** [`Github`](https://github.com/IbrahimHosseini/SystemState.git):
-*SystemState is an application that allows you to monitor your macOS system.*
+*SystemState is a `SwiftPM` that allows you to monitor your macOS system.*
 
 - **Dotin** [`AppStore`](https://apps.apple.com/gb/app/dotin/id1621066840): *A platform built for a new way to do property inspections. Accurate Reports, Simplified Process: Dotin's 360 Images annotated Dots precise Property Inspections. Visualize the Power of Annotated Dots on Images! Dotin is a property inspection app designed for a new way to generate property inspections. With a focus on accuracy, efficiency, and simplicity, Dotin simplifies the entire inspection process, empowering property managers, landlords, inspectors, universities, and councils to take control of their property inspection reports.*
 
