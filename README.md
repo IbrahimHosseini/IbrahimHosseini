@@ -10,7 +10,7 @@
 
 ## Skills ⛷️
 #### Languages
-**`Swift`**, **`Golang`**
+**`Swift`**, **`Python`**
 #### Technologies
 Git, UIKit, `SOLID`, **`Clean Code`**, `RESTful APIs`, Auto Layout, **`SwiftUI`**, **`Combine`**, `RxSwift`, **`Unit Test`**, `Integration Test`, **`Fastlane`**, GitLab CI, `Xcode Cloud CI/CD`, `Realm`, `The Composable Architecture`, Objective‐C, `React Native`, UI/UX (Figma), **`SwiftPM`**, `DocC`, **Algorithm and Data structure**.
 #### Soft Skills 
@@ -51,7 +51,7 @@ Strong `communication`, Work Ethic, `Teamwork`, `Problem-solving`, and `Empathy`
 ## Interested 🧐
 - 🔭 I’m currently working on [`TCA`](https://github.com/pointfreeco/swift-composable-architecture), `Data Structure` and `Algorithms`, and `System Design`.
 - 👯 I’m looking to collaborate on `open-source` iOS projects.
-- 📖 I’m learning [`Golang`](https://go.dev/).
+- 📖 I’m learning [`Python`]((https://www.python.org).
 - 🤔 I’m looking for a new career in `Germany 🇩🇪` and the `Netherlands 🇳🇱`.
 
 ## Resume 📝
