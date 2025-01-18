@@ -10,7 +10,7 @@
 
 ## Skills ⛷️
 #### Languages
-**`Swift`**, **`Python`**
+**`Swift`**, **`Python`**, **`Golang`**
 #### Technologies
 Git, UIKit, `SOLID`, **`Clean Code`**, `RESTful APIs`, Auto Layout, **`SwiftUI`**, **`Combine`**, `RxSwift`, **`Unit Test`**, `Integration Test`, **`Fastlane`**, GitLab CI, `Xcode Cloud CI/CD`, `Realm`, `The Composable Architecture`, Objective‐C, `React Native`, UI/UX (Figma), **`SwiftPM`**, `DocC`, **Algorithm and Data structure**.
 #### Soft Skills 
