@@ -46,7 +46,6 @@ Strong `communication`, Work Ethic, `Teamwork`, `Problem-solving`, and `Empathy`
 - **Qamda** [`AppStore`](https://apps.apple.com/de/app/qamda/id1534250181): *Qamda is an easy-to-use job search app. It matches job providers with job seekers within a geographical area. Job seekers can just swipe left to skip or right to apply for a job. Job providers and employers can add jobs in minutes at no cost.*
 
 - **2local Wallet** [`Github`](https://github.com/2local/iOSWallet): *A Cryptocurrency wallet app that you can create or import a new wallet, Do transactions on Ethereum and BNB channels, and also show your balance.*
-- **DF App** [`site`](http://distractfree.com): *Safe-driving solutions for Commercial vehicles and their drivers.*
 
 ## Interested 🧐
 - 🔭 I’m currently working on `Data Structure` and `Algorithms`, and `System Design`.
