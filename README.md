@@ -51,7 +51,6 @@ Strong `communication`, Work Ethic, `Teamwork`, `Problem-solving`, and `Empathy`
 - 🔭 I’m currently working on `Data Structure` and `Algorithms`, and `System Design`.
 - 👯 I’m looking to collaborate on `open-source` iOS projects.
 - 📖 I’m learning **AI/ML** with [`Python`](https://www.python.org).
-- 🤔 I’m looking for a new career in `Germany 🇩🇪` and the `Netherlands 🇳🇱`.
 
 ## Resume 📝
 You can download my resume [**here**](https://github.com/IbrahimHosseini/IbrahimHosseini/files/15016260/Ibrahim_Hosseini.pdf).
