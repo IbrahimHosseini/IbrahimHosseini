@@ -6,17 +6,28 @@
 </a> -->
 
 ## Summary 😎
-*I'm **Ibrahim**, an experienced iOS developer with **8+ years** of background in design and development across diverse industries. I have experience in **solving issues** with production environments and excel at developing applications using **MVC**, **MVVM**, and **VIPER** architecture patterns. Proficient in **Swift** and familiar with **object-oriented programming** and **protocol-oriented programming**  concepts, I am a fast learner, highly motivated, and able to work independently and as part of a large team.*
+*I'm **Ibrahim**, a Senior iOS Developer with **9+ years** of experience building high-performance iOS and macOS applications. My expertise spans **Swift**, **SwiftUI**, and **Combine**, with a strong foundation in modern architectural patterns such as **MVVM-C** and **Clean Architecture**. I've contributed to enterprise-grade **MDM**, compliance, and command center solutions, leading major codebase modernizations, automation workflows, and secure provisioning systems. I'm passionate about crafting clean, scalable software that balances strong technical design with a great user experience. I thrive in **Agile**, cross-functional environments and love mentoring teammates, improving product quality, and turning complex problems into elegant, maintainable solutions. Proficient in **object-oriented programming** and **protocol-oriented programming** concepts, I am a fast learner, highly motivated, and able to work independently and as part of a large team.*
 
 ## Skills ⛷️
 #### Languages
 **`Swift`**, **`Python`**
 #### Technologies
-Git, UIKit, `SOLID`, **`Clean Code`**, `RESTful APIs`, Auto Layout, **`SwiftUI`**, **`Combine`**, `RxSwift`, **`Unit Test`**, `Integration Test`, **`Fastlane`**, GitLab CI, `Xcode Cloud CI/CD`, `Realm`, `The Composable Architecture`, Objective‐C, `React Native`, UI/UX (Figma), **`SwiftPM`**, `DocC`, **Algorithm and Data structure**.
-#### Soft Skills 
+Git, UIKit, `SOLID`, **`Clean Code`**, `RESTful APIs`, Auto Layout, **`SwiftUI`**, **`Combine`**, `RxSwift`, **`Unit Test`**, `Integration Test`, **`Fastlane`**, GitLab CI, `Xcode Cloud CI/CD`, `Realm`, **`SwiftData`**, **`SQLite`**, `The Composable Architecture`, Objective‐C, `React Native`, UI/UX (Figma), **`SwiftPM`**, `Cocoapods`, `DocC`, **`Apple MDM`**, **`Natural Language Processing (NLP)`**, **`Voice-to-text transcription`**, **`Calendar API integrations`** (Apple Calendar, Google Calendar, Outlook), **Algorithm and Data structure**.
+#### Soft Skills
 Strong `communication`, Work Ethic, `Teamwork`, `Problem-solving`, and `Empathy`.
 
 ## Experiences 🔬
+- Developed an **AI-powered personal organization app** with **voice-to-text transcription** and **natural language processing**, enabling users to create tasks, reminders, routines, and events through natural conversation.
+- Implemented **intelligent scheduling system** with automatic time suggestions and **calendar integration** (Apple Calendar, Google Calendar, Outlook), automatically finding free time for meetings and optimizing user schedules.
+- Built **full-stack solution** including iOS app, backend API, and admin panel, delivering a complete end-to-end product for AI-powered life management.
+- Integrated **AI classification system** for automatically categorizing user inputs into tasks, reminders, routines, and events, understanding context and intent from casual speech patterns.
+- Implemented **voice capture and processing features** for hands-free task creation, achieving over 95% accuracy in voice transcription even with background noise or accents.
+- Spearheaded development of **next-generation iOS and macOS apps** using **Swift**, **SwiftUI**, and **Combine** for enterprise-grade **MDM** and compliance platform, enabling secure and scalable Apple device management.
+- Built **custom macOS installer (.pkg) application** that streamlined internal provisioning and reduced setup time for new devices by **over 60%**, improving operational efficiency.
+- Developed **Swift Package Manager SDK** to track and report Mac hardware health metrics (**RAM**, **CPU**, **GPU**, **Network**, **Disk**), improving reliability and visibility across managed fleets.
+- Designed **silent enrollment workflow** via **Bash scripting**, allowing devices to be securely registered and configured with zero user interaction, enhancing security and automation.
+- Modernized multiple **legacy codebases**, introducing **Clean Architecture**, modular structure, and extensive **XCTest coverage** for long-term maintainability and code quality.
+- Authored **technical documentation** and internal best-practice guides, ensuring consistent engineering standards across teams and facilitating knowledge sharing.
 - Maintained a large-scale application using **protocol-oriented programming** and **clean Architecture principles**.
 - Designed a navigation solution utilizing the **Coordinator architecture** to reduce code within the view controller, achieving a more reusable approach to navigation between views.
 - Spearheaded and developed the project utilizing **RxSwift** and **MVVM-C** architecture.
@@ -38,6 +49,8 @@ Strong `communication`, Work Ethic, `Teamwork`, `Problem-solving`, and `Empathy`
 - Develop a **SwiftPM** to manage the System State (**RAM**, **CPU**, **GPU**, **Network**, **Disk**) and embedded to the project. It caused the reduction of **more than thousands** of lines of code, also **preventing code duplication** and making it simpler to **scalable** and **maintain**.
 
 ## Projects 📱
+- **Life Forge** [`Website`](https://lifeforge.thepixelforge.app) | [`iOS`](https://apps.apple.com/app/lifeforge) | [`Backend`]() | [`Admin Panel`](https://console.thepixelforge.app/login): *An AI-powered personal organization app that transforms life management through voice capture, AI classification, and intelligent scheduling. Create reminders, tasks, events, and routines simply by talking or typing. The AI suggests optimal times, reschedules missed items, and automatically finds free time for meetings. Features include voice-to-text transcription, natural language processing, and seamless calendar integrations with Apple Calendar, Google Calendar, and Outlook.*
+
 - **System State** [`Github`](https://github.com/IbrahimHosseini/SystemState.git):
 *SystemState is a `SwiftPM` that allows you to monitor your macOS system.*
 
@@ -50,7 +63,6 @@ Strong `communication`, Work Ethic, `Teamwork`, `Problem-solving`, and `Empathy`
 ## Interested 🧐
 - 🔭 I’m currently working on `Data Structure` and `Algorithms`, and `System Design`.
 - 👯 I’m looking to collaborate on `open-source` iOS projects.
-- 📖 I’m learning **AI/ML** with [`Python`](https://www.python.org).
 
 ## Resume 📝
 You can download my resume [**here**](https://github.com/IbrahimHosseini/IbrahimHosseini/files/15016260/Ibrahim_Hosseini.pdf).
