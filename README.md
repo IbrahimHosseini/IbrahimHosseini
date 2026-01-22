@@ -8,6 +8,16 @@
 ## Summary 😎
 *I'm **Ibrahim**, a Senior iOS Developer with **9+ years** of experience building high-performance iOS and macOS applications. My expertise spans **Swift**, **SwiftUI**, and **Combine**, with a strong foundation in modern architectural patterns such as **MVVM-C** and **Clean Architecture**. I've contributed to enterprise-grade **MDM**, compliance, and command center solutions, leading major codebase modernizations, automation workflows, and secure provisioning systems. I'm passionate about crafting clean, scalable software that balances strong technical design with a great user experience. I thrive in **Agile**, cross-functional environments and love mentoring teammates, improving product quality, and turning complex problems into elegant, maintainable solutions. Proficient in **object-oriented programming** and **protocol-oriented programming** concepts, I am a fast learner, highly motivated, and able to work independently and as part of a large team.*
 
+## AI-Assisted Development 🤖
+*I leverage cutting-edge AI tools including **Cursor**, **ChatGPT**, and **Gemini** as integral parts of my development workflow. These AI assistants enhance my capabilities across multiple dimensions:*
+
+- **Coding & Development**: Accelerating code generation, debugging, refactoring, and implementing complex features with AI-powered suggestions and code completion.
+- **Technical Analysis**: Utilizing AI for code review, architecture analysis, performance optimization, and identifying potential improvements in existing codebases.
+- **Marketing & Strategy**: Leveraging AI for content creation, market research, user persona development, and crafting compelling product narratives.
+- **Project Planning & Counseling**: Using AI as a collaborative partner for brainstorming, problem-solving, project planning, and exploring different technical approaches to complex challenges.
+
+*This AI-assisted approach enables me to deliver comprehensive, well-thought-out projects from conception to completion, combining human creativity and strategic thinking with AI-powered efficiency and insights.*
+
 ## Skills ⛷️
 #### Languages
 **`Swift`**, **`Go`**, **`JavaScript`**
