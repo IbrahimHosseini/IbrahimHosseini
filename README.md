@@ -1,9 +1,10 @@
 <a href="https://github.com/ibrahimhosseini/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimhosseini" />
-<!-- </a>
+
+</a>
 <a href="https://github.com/ibrahimhosseini/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahimhosseini&layout=compact&langs_count=6&card_width=320" />
-</a> -->
+</a>
 
 ## Summary 😎
 *I'm **Ibrahim**, a Senior iOS Developer with **9+ years** of experience building high-performance iOS and macOS applications. My expertise spans **Swift**, **SwiftUI**, and **Combine**, with a strong foundation in modern architectural patterns such as **MVVM-C** and **Clean Architecture**. I've contributed to enterprise-grade **MDM**, compliance, and command center solutions, leading major codebase modernizations, automation workflows, and secure provisioning systems. I'm passionate about crafting clean, scalable software that balances strong technical design with a great user experience. I thrive in **Agile**, cross-functional environments and love mentoring teammates, improving product quality, and turning complex problems into elegant, maintainable solutions. Proficient in **object-oriented programming** and **protocol-oriented programming** concepts, I am a fast learner, highly motivated, and able to work independently and as part of a large team.*
