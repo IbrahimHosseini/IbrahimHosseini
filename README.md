@@ -7,7 +7,7 @@
 </a>
 
 ## Summary 😎
-*I'm **Ibrahim**, a Senior iOS Developer with **9+ years** of experience building high-performance iOS and macOS applications. My expertise spans **Swift**, **SwiftUI**, and **Combine**, with a strong foundation in modern architectural patterns such as **MVVM-C** and **Clean Architecture**. I've contributed to enterprise-grade **MDM**, compliance, and command center solutions, leading major codebase modernizations, automation workflows, and secure provisioning systems. I'm passionate about crafting clean, scalable software that balances strong technical design with a great user experience. I thrive in **Agile**, cross-functional environments and love mentoring teammates, improving product quality, and turning complex problems into elegant, maintainable solutions. Proficient in **object-oriented programming** and **protocol-oriented programming** concepts, I am a fast learner, highly motivated, and able to work independently and as part of a large team.*
+*I'm **Ibrahim**, a Senior Software / **AI Systems Engineer** with **9+ years** of experience building high-performance iOS, macOS, and backend systems. My expertise spans **Swift**, **SwiftUI**, and **Combine**, with a strong foundation in modern architectural patterns such as **MVVM-C** and **Clean Architecture**. On the backend side, I work in **Go** and **Python** (**FastAPI**, **PostgreSQL**, **SQLAlchemy 2.0 async**), building **RESTful APIs**, **authentication systems**, and **containerised services**. I've built production AI systems integrating **multi-provider LLM APIs** (**OpenAI**, **Anthropic**, **xAI**, **DeepSeek**) with custom routing logic in Go, plus **MCP** (client-side tool integration), **A2A** protocol, and agentic workflow tooling such as **n8n**. I've contributed to enterprise-grade **MDM**, compliance, and command center solutions, leading major codebase modernizations, automation workflows, and secure provisioning systems. I'm passionate about crafting clean, scalable software that balances strong technical design with a great user experience. I thrive in **Agile**, cross-functional environments and love mentoring teammates, improving product quality, and turning complex problems into elegant, maintainable solutions. Proficient in **object-oriented programming** and **protocol-oriented programming** concepts, I am a fast learner, highly motivated, and able to work independently and as part of a large team.*
 
 ## AI-Assisted Development 🤖
 *I leverage cutting-edge AI tools including **Cursor**, **ChatGPT**, and **Gemini** as integral parts of my development workflow. These AI assistants enhance my capabilities across multiple dimensions:*
@@ -21,13 +21,27 @@
 
 ## Skills ⛷️
 #### Languages
-**`Swift`**, **`Go`**, **`JavaScript`**
-#### Technologies
-Git, UIKit, `SOLID`, **`Clean Code`**, `RESTful APIs`, Auto Layout, **`SwiftUI`**, **`Combine`**, `RxSwift`, **`Unit Test`**, `Integration Test`, **`Fastlane`**, GitLab CI, `Xcode Cloud CI/CD`, `Realm`, **`SwiftData`**, **`SQLite`**, `The Composable Architecture`, Objective‐C, `React Native`, UI/UX (Figma), **`SwiftPM`**, `Cocoapods`, `DocC`, **`Apple MDM`**, **`Natural Language Processing (NLP)`**, **`Voice-to-text transcription`**, **`Calendar API integrations`** (Apple Calendar, Google Calendar, Outlook), **Algorithm and Data structure**.
+**`Swift`**, **`Go`**, **`Python`**, **`JavaScript`**, **`Dart`**, **`Bash`**
+#### iOS / Apple Frameworks
+Git, UIKit, `SOLID`, **`Clean Code`**, `RESTful APIs`, Auto Layout, **`SwiftUI`**, **`Combine`**, **`async/await`**, `RxSwift`, **`Unit Test`**, `Integration Test`, **`Fastlane`**, GitLab CI, `Xcode Cloud CI/CD`, `Realm`, **`SwiftData`**, **`SQLite`**, Objective‐C, `Flutter`, UI/UX (Figma), **`SwiftPM`**, `Cocoapods`, `DocC`, **`Apple MDM`**, **`XCTest`**, `XCUITest`, **`Swift Testing`**, **`Instruments`**, **`Natural Language Processing (NLP)`**, **`Voice-to-text transcription`**, **`Calendar API integrations`** (Apple Calendar, Google Calendar, Outlook), **Algorithm and Data structure**.
+#### Backend (Go & Python)
+**`Go`**, **`Python 3.12`**, **`FastAPI`**, **`Pydantic v2`**, **`pydantic-settings`**, **`asyncio`**, **`SQLAlchemy 2.0 async`**, **`asyncpg`**, **`Alembic`**, **`PostgreSQL`**, **`JWT / OAuth2`** (python-jose), **`Dependency Injection`** (Depends pattern), `Middleware & CORS`, **`Repository Pattern`**, **`Query Optimization`** (EXPLAIN ANALYZE, index design), **`Docker`**, **`docker-compose`**, **`GitHub Actions`**, **`ruff`**, **`pytest`**, **`pytest-asyncio`**, **`httpx.AsyncClient`**, `unittest.mock` / `monkeypatch`, `uvicorn`.
+#### AI / LLM Systems
+**`OpenAI API`**, **`Anthropic API`**, **`xAI`**, **`DeepSeek`**, **`Multi-provider LLM routing`** (Go), **`MCP`** (client-side tool integration), **`A2A` protocol**, **`n8n`** (workflow automation), **`Prompt Engineering`**, **`pgvector-ready schema`**. *Phase 2 in progress:* `pgvector`, `LangChain`, `RAG`, `LangGraph`, `Redis`, `Ragas`.
+#### Network & Security
+**`Charles Proxy`**, **`Wireshark`**, **`Apple MDM`**, **`Secure Enrollment`**, **`Data Encryption`**, **`Secure Storage`**, **`Auth Flows`**.
 #### Soft Skills
 Strong `communication`, Work Ethic, `Teamwork`, `Problem-solving`, and `Empathy`.
 
 ## Experiences 🔬
+- Founded **[The Pixel Forge](https://thepixelforge.app)** — an AI-native product studio building everyday productivity apps. Shipped multiple iOS and Android apps end-to-end (architecture → App Store / TestFlight / Cafe Bazaar release), backend services, marketing site, and analytics integration.
+- Built a **multi-provider LLM routing layer in Go**: dynamically selects between **OpenAI**, **Anthropic**, **xAI**, and **DeepSeek** based on request context, reducing per-request cost and improving response quality.
+- Integrated **MCP** (Model Context Protocol) **client-side tool protocol** to extend AI capabilities with external tool access, used inside LifeForge for agentic workflows.
+- Built a **FastAPI + PostgreSQL** backend with **SQLAlchemy 2.0 async**, **Alembic** migrations, JWT/OAuth2 auth, **repository pattern**, and a **pgvector-ready schema** for upcoming RAG features. Full **Docker** / **docker-compose** orchestration and **GitHub Actions** CI (pytest + ruff).
+- Achieved **>80% test coverage** on backend services with **pytest**, **pytest-asyncio**, and **httpx.AsyncClient** for end-to-end FastAPI testing without spinning up a server.
+- Developed **Go-based backend services for an enterprise MDM platform**: core device-management service handling enrollment workflows, remote commands, and policy enforcement at scale.
+- Collaborated with **security and infrastructure** teams on data encryption, secure storage, and authentication flows. Used **Charles Proxy** and **Wireshark** for network debugging, API validation, and identifying performance bottlenecks.
+- Built **Maliyar**, an **offline-first** personal-finance / loan and installment tracker with full **RTL / Farsi** localisation and **Persian (Jalali) calendar** support. Published to **App Store**, **TestFlight**, and **Cafe Bazaar**.
 - Developed an **AI-powered personal organization app** with **voice-to-text transcription** and **natural language processing**, enabling users to create tasks, reminders, routines, and events through natural conversation.
 - Implemented **intelligent scheduling system** with automatic time suggestions and **calendar integration** (Apple Calendar, Google Calendar, Outlook), automatically finding free time for meetings and optimizing user schedules.
 - Built **full-stack solution** including iOS app, backend API, and admin panel, delivering a complete end-to-end product for AI-powered life management.
@@ -60,7 +74,9 @@ Strong `communication`, Work Ethic, `Teamwork`, `Problem-solving`, and `Empathy`
 - Develop a **SwiftPM** to manage the System State (**RAM**, **CPU**, **GPU**, **Network**, **Disk**) and embedded to the project. It caused the reduction of **more than thousands** of lines of code, also **preventing code duplication** and making it simpler to **scalable** and **maintain**.
 
 ## Projects 📱
-- **Life Forge** [`Website`](https://lifeforge.thepixelforge.app) | [`iOS`](https://apps.apple.com/app/lifeforge) | [`Backend`]() | [`Admin Panel`](https://console.thepixelforge.app/login): *An AI-powered personal organization app that transforms life management through voice capture, AI classification, and intelligent scheduling. Create reminders, tasks, events, and routines simply by talking or typing. The AI suggests optimal times, reschedules missed items, and automatically finds free time for meetings. Features include voice-to-text transcription, natural language processing, and seamless calendar integrations with Apple Calendar, Google Calendar, and Outlook.*
+- **Maliyar** [`Website`](https://maliyar.thepixelforge.app) | [`TestFlight`](https://testflight.apple.com/join/3Kq77BAq) | [`Cafe Bazaar`](https://cafebazaar.ir/app/app.thepixelforge.loan_tracker): *An **offline-first** Persian/Farsi loan and installment manager. Helps users track loans, schedule installments, and monitor upcoming payments — all on-device, with no account required. Full **RTL layout**, **Persian (Jalali) calendar** support, and secure local storage. Built with **SwiftUI**, **SwiftData**, and **async/await**, distributed via **App Store**, **TestFlight**, and **Cafe Bazaar**.*
+
+- **Life Forge** [`Website`](https://lifeforge.thepixelforge.app) | [`Admin Panel`](https://console.thepixelforge.app/login): *An AI-powered personal organization app that transforms life management through voice capture, AI classification, and intelligent scheduling. Create reminders, tasks, events, and routines simply by talking or typing. The AI suggests optimal times, reschedules missed items, and automatically finds free time for meetings. Features include voice-to-text transcription, natural language processing, and seamless calendar integrations with Apple Calendar, Google Calendar, and Outlook. Backed by a **multi-provider LLM routing layer (Go)** spanning **OpenAI**, **Anthropic**, **xAI**, and **DeepSeek**, plus **MCP** client-side tool integration and a **FastAPI + PostgreSQL** service.*
 
 - **System State** [`Github`](https://github.com/IbrahimHosseini/SystemState.git):
 *SystemState is a `SwiftPM` that allows you to monitor your macOS system.*
@@ -73,8 +89,5 @@ Strong `communication`, Work Ethic, `Teamwork`, `Problem-solving`, and `Empathy`
 
 ## Interested 🧐
 - 🔭 I’m currently working on `Data Structure` and `Algorithms`, and `System Design`.
-- 👯 I’m looking to collaborate on `open-source` iOS projects.
 
-## Resume 📝
-You can download my resume [**here**](https://github.com/IbrahimHosseini/IbrahimHosseini/files/15016260/Ibrahim_Hosseini.pdf).
 
