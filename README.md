@@ -1,10 +1,4 @@
-<a href="https://github.com/ibrahimhosseini/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimhosseini" />
-
-</a>
-<a href="https://github.com/ibrahimhosseini/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahimhosseini&layout=compact&langs_count=6&card_width=320" />
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=ibrahimhosseini&border_radius=25&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=1000)](https://git.io/streak-stats)
 
 ## Summary 😎
 *I'm **Ibrahim**, a Senior Software / **AI Systems Engineer** with **9+ years** of experience building high-performance iOS, macOS, and backend systems. My expertise spans **Swift**, **SwiftUI**, and **Combine**, with a strong foundation in modern architectural patterns such as **MVVM-C** and **Clean Architecture**. On the backend side, I work in **Go** and **Python** (**FastAPI**, **PostgreSQL**, **SQLAlchemy 2.0 async**), building **RESTful APIs**, **authentication systems**, and **containerised services**. I've built production AI systems integrating **multi-provider LLM APIs** (**OpenAI**, **Anthropic**, **xAI**, **DeepSeek**) with custom routing logic in Go, plus **MCP** (client-side tool integration), **A2A** protocol, and agentic workflow tooling such as **n8n**. I've contributed to enterprise-grade **MDM**, compliance, and command center solutions, leading major codebase modernizations, automation workflows, and secure provisioning systems. I'm passionate about crafting clean, scalable software that balances strong technical design with a great user experience. I thrive in **Agile**, cross-functional environments and love mentoring teammates, improving product quality, and turning complex problems into elegant, maintainable solutions. Proficient in **object-oriented programming** and **protocol-oriented programming** concepts, I am a fast learner, highly motivated, and able to work independently and as part of a large team.*
